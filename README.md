@@ -2,15 +2,17 @@
 
 <h1> Hey friends — </h1>
 
-Hola (Hello), My name is Marlon, I am a trainee & freelance web design and graphic design from Kent, United Kingdom and I is a college student currently studying are graphics design in subjects in Creative Media Production. I am British designers and I have travelled a lot of countries are Spain, Germany, The Netherlandsand Morocco. 
+<body> Hola (Hello), My name is Marlon, I am a trainee & freelance web design and graphic design from Kent, United Kingdom and I is a college student currently studying are graphics design in subjects in Creative Media Production. I am British designers and I have travelled a lot of countries are Spain, Germany, The Netherlandsand Morocco. </body>
 
 
-What I'm Working On (Projects)
+<h2> What I'm Working On (Projects) </h2>
 
 
 
 
-Get in Touch
+
+
+<h3> Get in Touch </h3>
 
 1.🐦 Twitter - https://twitter.com/DesignsEvaristo or https://twitter.com/marlone36
 2.📨 Email -evaristotunstalldesigns@gmail.com
