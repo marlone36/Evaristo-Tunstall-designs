@@ -14,8 +14,16 @@
 
 <h3> Get in Touch </h3>
 
+
+
+
 1.🐦 Twitter - https://twitter.com/DesignsEvaristo or https://twitter.com/marlone36
+
 2.📨 Email -evaristotunstalldesigns@gmail.com
+
 3.Linkedin -https://www.linkedin.com/in/mevaristotunstall14/
+
 4.Instgraam-https://www.instagram.com/evaristotunstalldesigns/
+
 5.Behance-https://www.behance.net/marlonevaristo-tunst
+
