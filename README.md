@@ -1,6 +1,6 @@
 # Evaristo-Tunstall-designs
 
-Hey friends —
+<h1> Hey friends — </h1>
 
 Hola (Hello), My name is Marlon, I am a trainee & freelance web design and graphic design from Kent, United Kingdom and I is a college student currently studying are graphics design in subjects in Creative Media Production. I am British designers and I have travelled a lot of countries are Spain, Germany, The Netherlandsand Morocco. 
 
