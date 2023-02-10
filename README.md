@@ -2,7 +2,7 @@
 
 <h1> Hey friends — </h1>
 
-<body> Hola (Hello), My name is Marlon, I am a trainee & freelance web design and graphic design from Kent, United Kingdom and I is a college student currently studying are graphics design in subjects in Creative Media Production. I am British designers and I have travelled a lot of countries are Spain, Germany, The Netherlandsand Morocco. </body>
+<body> Hola Hola (Hello), My name is Marlon, I am a trainee & freelance web design, and graphic designer from Kent, United Kingdom and I am an undergraduate university student is doing a BA (Hons) (Bachelor of Arts) in Digital Media for my first year of the degree. I am a British designer and I have travelled to a lot of countries are Spain, Germany, The Netherlands and Morocco.  </body>
 
 
 <h2> What I'm Working On (Projects) </h2>
